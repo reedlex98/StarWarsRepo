@@ -3,4 +3,5 @@ Darth Vader
 Obi Wan Kenobi
 Master Yoda
 Chewbacca
+C-3PO
 R2-D2
