@@ -5,3 +5,4 @@
 É um repositório sobre Star Wars, foi feito no curso básico de Git e GitHub
 
 Live long and prosper \\//
+Star Trek is also cool :D
