@@ -2,7 +2,3 @@ Humans
 Twi'lek
 Mon Calamari
 Devaroniano
-Kaleesh
-Togruta
-Wookiee
-Nautolano
